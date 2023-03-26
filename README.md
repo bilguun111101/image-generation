@@ -1,1 +1,1 @@
-<h1>Image Generator</h1>
+<h2>Used tools:</h2>
