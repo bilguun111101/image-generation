@@ -1,4 +1,4 @@
-<h3 align="left">Used libraries and tools:</h3>
+<h3 align="left">Used libraries and tools: </h3>
 <p align="left"> 
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" target="_blank" rel="noreferrer">
     <img src="https://logodix.com/logo/34937.png" alt="amplify" width="40" height="40"/>
